@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040204632029",
+    "project_id": "pizza-guy-a2c11",
+    "storage_bucket": "pizza-guy-a2c11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040204632029:android:9bdd7e2b7834043d273034",
+        "android_client_info": {
+          "package_name": "com.mobiquest.pizzaguy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040204632029-v858u80nlj9difqqav8um54bqoih9kf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHouXSbu48hFHSGisdWKER9vtco0FtGAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040204632029-v858u80nlj9difqqav8um54bqoih9kf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
